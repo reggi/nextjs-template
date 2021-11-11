@@ -7,6 +7,5 @@
     "isolatedModules": false,
     "noEmit": false,
     "jsx": "react"
-  },
-  "include": ["test/**/*.ts"]
+  }
 }
